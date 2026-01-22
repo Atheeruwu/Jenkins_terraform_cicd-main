@@ -1,5 +1,14 @@
 # installation of Jenkins,docker,sonar,trivy
 
+
+
+## VDEO SHOWING IT
+
+
+
+https://github.com/user-attachments/assets/289aa74c-d0e0-44a8-884e-84d29f641ae4
+
+
 #!/bin/bash
 sudo apt update -y
 wget -O - https://packages.adoptium.net/artifactory/api/gpg/key/public | tee /etc/apt/keyrings/adoptium.asc
